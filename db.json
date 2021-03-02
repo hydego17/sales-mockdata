@@ -1,68 +1,77 @@
 {
-    "sales": [
-      {
-        "id": "slsre538r2f1",
-        "date": "2021-01-01T05:15:10.092442623Z",
-        "total_sales": 100000,
-        "number_of_sales": 2
-      },
-      {
-        "id": "slsre538r2f2",
-        "date": "2021-01-02T05:15:10.092442623Z",
-        "total_sales": 50000,
-        "number_of_sales": 1
-      },
-      {
-        "id": "slsre538r2f3",
-        "date": "2021-01-03T05:15:10.092442623Z",
-        "total_sales": 150000,
-        "number_of_sales": 3
-      },
-      {
-        "id": "slsre538r2f4",
-        "date": "2021-01-04T05:15:10.092442623Z",
-        "total_sales": 300000,
-        "number_of_sales": 6
-      },
-      {
-        "id": "slsre538r2f5",
-        "date": "2021-01-05T05:15:10.092442623Z",
-        "total_sales": 50000,
-        "number_of_sales": 1
-      },
-      {
-        "id": "slsre538r2f6",
-        "date": "2021-01-06T05:15:10.092442623Z",
-        "total_sales": 150000,
-        "number_of_sales": 3
-      },
-      {
-        "id": "slsre538r2f7",
-        "date": "2021-01-07T05:15:10.092442623Z",
-        "total_sales": 200000,
-        "number_of_sales": 4
-      },
-      {
-        "id": "slsre538r2f8",
-        "date": "2021-01-08T05:15:10.092442623Z",
-        "total_sales": 500000,
-        "number_of_sales": 10
-      },
-      {
-        "id": "slsre538r2f9",
-        "date": "2021-01-09T05:15:10.092442623Z",
-        "total_sales": 100000,
-        "number_of_sales": 2
-      }
+
+  "sales": {
+    "success": true,
+    "message": [
+        "Success Get Sales data"
     ],
+    "data": {
+      "sales": [
+        {
+          "id": "slsre538r2f1",
+          "date": "2021-01-01T05:15:10.092442623Z",
+          "total_sales": 100000,
+          "number_of_sales": 2
+        },
+        {
+          "id": "slsre538r2f2",
+          "date": "2021-01-02T05:15:10.092442623Z",
+          "total_sales": 50000,
+          "number_of_sales": 1
+        },
+        {
+          "id": "slsre538r2f3",
+          "date": "2021-01-03T05:15:10.092442623Z",
+          "total_sales": 150000,
+          "number_of_sales": 3
+        },
+        {
+          "id": "slsre538r2f4",
+          "date": "2021-01-04T05:15:10.092442623Z",
+          "total_sales": 300000,
+          "number_of_sales": 6
+        },
+        {
+          "id": "slsre538r2f5",
+          "date": "2021-01-05T05:15:10.092442623Z",
+          "total_sales": 50000,
+          "number_of_sales": 1
+        },
+        {
+          "id": "slsre538r2f6",
+          "date": "2021-01-06T05:15:10.092442623Z",
+          "total_sales": 150000,
+          "number_of_sales": 3
+        },
+        {
+          "id": "slsre538r2f7",
+          "date": "2021-01-07T05:15:10.092442623Z",
+          "total_sales": 200000,
+          "number_of_sales": 4
+        },
+        {
+          "id": "slsre538r2f8",
+          "date": "2021-01-08T05:15:10.092442623Z",
+          "total_sales": 500000,
+          "number_of_sales": 10
+        },
+        {
+          "id": "slsre538r2f9",
+          "date": "2021-01-09T05:15:10.092442623Z",
+          "total_sales": 100000,
+          "number_of_sales": 2
+        }
+      ]
+    }
+  },
 
     "transactions": {
       "success": true,
       "message": [
-          "Success Get Mission task requests data"
+          "Success Get transaction data"
       ],
       "data": {
-        "transactions":[
+        "transactions": [
           {
             "id": "slsre538r2f1",
             "date": "2021-01-01T05:15:10.092442623Z",
