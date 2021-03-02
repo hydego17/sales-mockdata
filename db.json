@@ -5,8 +5,7 @@
     "message": [
         "Success Get Sales data"
     ],
-    "data": {
-      "sales": [
+    "data": [
         {
           "id": "slsre538r2f1",
           "date": "2021-01-01T05:15:10.092442623Z",
@@ -62,9 +61,8 @@
           "number_of_sales": 2
         }
       ]
-    }
   },
-  
+
   "transactions": {
       "success": true,
       "message": [
