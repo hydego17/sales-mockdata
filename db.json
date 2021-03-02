@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": ["Successfully get sales data"],
+    "data": [
+      {
+        "id": "slsre538r2f1",
+        "date": "2021-01-01T05:15:10.092442623Z",
+        "total_sales": 100000,
+        "number_of_sales": 2
+      },
+      {
+        "id": "slsre538r2f2",
+        "date": "2021-01-02T05:15:10.092442623Z",
+        "total_sales": 50000,
+        "number_of_sales": 1
+      },
+      {
+        "id": "slsre538r2f3",
+        "date": "2021-01-03T05:15:10.092442623Z",
+        "total_sales": 150000,
+        "number_of_sales": 3
+      },
+      {
+        "id": "slsre538r2f4",
+        "date": "2021-01-04T05:15:10.092442623Z",
+        "total_sales": 300000,
+        "number_of_sales": 6
+      }
+    ]
+  }
+  
