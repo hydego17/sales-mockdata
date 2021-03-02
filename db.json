@@ -161,35 +161,45 @@
           "date": "2021-01-01T05:15:10.092442623Z",
           "withdrawal_id": "withdrawNumber1",
           "method": "Bank BCA",
-          "amount": 100000
+          "amount": 100000,
+          "fee": 5000,
+          "total": 105000
         },
         {
           "id": "slsre538r2f2",
           "date": "2021-01-02T05:15:10.092442623Z",
           "withdrawal_id": "withdrawNumber2",
           "method": "Bank BCA",
-          "amount": 50000
+          "amount": 50000,
+          "fee": 5000,
+          "total": 55000
         },
         {
           "id": "slsre538r2f3",
           "date": "2021-01-03T05:15:10.092442623Z",
           "withdrawal_id": "withdrawNumber3",
           "method": "Bank BCA",
-          "amount": 50000
+          "amount": 50000,
+          "fee": 5000,
+          "total": 55000
         },
         {
           "id": "slsre538r2f4",
           "date": "2021-01-04T05:15:10.092442623Z",
           "withdrawal_id": "withdrawNumber4",
           "method": "Bank BCA",
-          "amount": 150000
+          "amount": 150000,
+          "fee": 5000,
+          "total": 155000
         },
         {
           "id": "slsre538r2f5",
           "date": "2021-01-05T05:15:10.092442623Z",
           "withdrawal_id": "withdrawNumber5",
           "method": "Bank BCA",
-          "amount": 100000
+          "amount": 100000,
+          "fee": 5000,
+          "total": 105000
         }
       ],
         "page": 1,
