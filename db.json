@@ -64,8 +64,8 @@
       ]
     }
   },
-
-    "transactions": {
+  
+  "transactions": {
       "success": true,
       "message": [
           "Success Get transaction data"
@@ -119,6 +119,6 @@
           "total_data": 4,
           "total_page": 1
       }
-    }  
+  }  
 }
   
