@@ -1,5 +1,5 @@
 {
-    "data": [
+    "sales": [
       {
         "id": "slsre538r2f1",
         "date": "2021-01-01T05:15:10.092442623Z",
@@ -54,6 +54,50 @@
         "total_sales": 100000,
         "number_of_sales": 2
       }
+    ],
+    "transactions":[
+      {
+        "id": "slsre538r2f1",
+        "date": "2021-01-01T05:15:10.092442623Z",
+        "order_id": "orderNumber1",
+        "user_id": 1,
+        "user_name": "Akhmad Diponegoro",
+        "course_id": 1,
+        "course_name": "Product Management",
+        "sale": 135000
+        
+      },
+      {
+        "id": "slsre538r2f2",
+        "date": "2021-01-02T05:15:10.092442623Z",
+        "order_id": "orderNumber2",
+        "user_id": 2,
+        "user_name": "Berliana",
+        "course_id": 2,
+        "course_name": "Public Speaking",
+        "sale": 120000
+      },
+      {
+        "id": "slsre538r2f3",
+        "date": "2021-01-03T05:15:10.092442623Z",
+        "order_id": "orderNumber3",
+        "user_id": 3,
+        "user_name": "Irfan Asgar",
+        "course_id": 3,
+        "course_name": "Online Assessment for Finance",
+        "sale": 215000
+      },
+      {
+        "id": "slsre538r2f4",
+        "date": "2021-01-04T05:15:10.092442623Z",
+        "order_id": "orderNumber4",
+        "user_id": 2,
+        "user_name": "Berliana",
+        "course_id": 4,
+        "course_name": "How to Build an outbound Sales",
+        "sale": 145000
+      }
     ]
+    
   }
   
