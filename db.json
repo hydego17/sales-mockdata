@@ -23,6 +23,36 @@
         "date": "2021-01-04T05:15:10.092442623Z",
         "total_sales": 300000,
         "number_of_sales": 6
+      },
+      {
+        "id": "slsre538r2f5",
+        "date": "2021-01-05T05:15:10.092442623Z",
+        "total_sales": 50000,
+        "number_of_sales": 1
+      },
+      {
+        "id": "slsre538r2f6",
+        "date": "2021-01-06T05:15:10.092442623Z",
+        "total_sales": 150000,
+        "number_of_sales": 3
+      },
+      {
+        "id": "slsre538r2f7",
+        "date": "2021-01-07T05:15:10.092442623Z",
+        "total_sales": 200000,
+        "number_of_sales": 4
+      },
+      {
+        "id": "slsre538r2f8",
+        "date": "2021-01-08T05:15:10.092442623Z",
+        "total_sales": 500000,
+        "number_of_sales": 10
+      },
+      {
+        "id": "slsre538r2f9",
+        "date": "2021-01-09T05:15:10.092442623Z",
+        "total_sales": 100000,
+        "number_of_sales": 2
       }
     ]
   }
