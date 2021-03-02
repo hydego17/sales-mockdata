@@ -144,9 +144,59 @@
         ],
           "page": 1,
           "per_page": 10,
-          "total_data": 4,
+          "total_data": 7,
           "total_page": 1
       }
-  }  
+  },
+
+  "withdrawal": {
+    "success": true,
+    "message": [
+        "Success Get Withdrawal data"
+    ],
+    "data": {
+      "withdrawal": [
+        {
+          "id": "slsre538r2f1",
+          "date": "2021-01-01T05:15:10.092442623Z",
+          "withdrawal_id": "withdrawNumber1",
+          "method": "Bank BCA",
+          "amount": 100000
+        },
+        {
+          "id": "slsre538r2f2",
+          "date": "2021-01-02T05:15:10.092442623Z",
+          "withdrawal_id": "withdrawNumber2",
+          "method": "Bank BCA",
+          "amount": 50000
+        },
+        {
+          "id": "slsre538r2f3",
+          "date": "2021-01-03T05:15:10.092442623Z",
+          "withdrawal_id": "withdrawNumber3",
+          "method": "Bank BCA",
+          "amount": 50000
+        },
+        {
+          "id": "slsre538r2f4",
+          "date": "2021-01-04T05:15:10.092442623Z",
+          "withdrawal_id": "withdrawNumber4",
+          "method": "Bank BCA",
+          "amount": 150000
+        },
+        {
+          "id": "slsre538r2f5",
+          "date": "2021-01-05T05:15:10.092442623Z",
+          "withdrawal_id": "withdrawNumber5",
+          "method": "Bank BCA",
+          "amount": 100000
+        },
+      ],
+        "page": 1,
+        "per_page": 10,
+        "total_data": 5,
+        "total_page": 1
+    }
+  } 
 }
   
